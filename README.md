@@ -1,5 +1,5 @@
 # Chess-AIRL
- Chess AI that moves on a physical board
+ Chess AI that moves on a physical board  
 
 ## Previously Mentioned Ideas
 * RFID
