@@ -60,8 +60,8 @@ Feb 4, 2023
 
 5.  Individual work before our next meeting
 	1. Both Research similar projects/solutions and identify how they accomplish the constituent project elements; how is our project different? Track work; develop items for next meeting Coming up with users Coming up with specifications Which project parts would we like to prioritise, which are later developments
-	2.  Ryan User stories: Expert, Bullet, Novice, Puzzle, Offline Add research links to Links doc
-	3.  Jen Migrate minutes to Obsidian and GitHub Research offline chess engines Write stories for users: Average, Puzzle, Offline
+	2.  Ryan User stories: Expert, Bullet, Novice, Puzzle, Offline; Add research links to Links doc
+	3.  Jen Migrate minutes to Obsidian and GitHub; Research offline chess engines; Write stories for users: Average, Puzzle, Offline
 
 6.  Next meeting (Feb 11th else Reading Week)
 	1. Merge user stories
