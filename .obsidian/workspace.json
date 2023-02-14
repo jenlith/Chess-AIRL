@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "4aa5b843202da77b",
+            "id": "551309e7c81849ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Links.md",
+                "file": "J/Compiled Research Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Links.md",
+                "file": "J/Compiled Research Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Links.md",
+                "file": "J/Compiled Research Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Links.md"
+                "file": "J/Compiled Research Notes.md"
               }
             }
           }
@@ -171,7 +171,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4aa5b843202da77b",
+  "active": "551309e7c81849ca",
   "lastOpenFiles": [
     "Meeting Minutes.md",
     "Links.md",
