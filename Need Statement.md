@@ -1,0 +1,1 @@
+There exists a need for a custom-built piece of technology which manages chess games on a physical board against either an AI opponent or a remote player.
