@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "961db55185d8c5ba",
+        "id": "15f159f7cb075b78",
         "type": "tabs",
         "children": [
           {
-            "id": "c736914d487c0ff8",
+            "id": "9872ff85ca852434",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R/Meeting Follow-Up.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c58f9facb7f6bad3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "232de5822327175c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "User Stories.md",
+                "file": "J/Compiled Research Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R/Meeting Follow-Up.md",
+                "file": "J/Compiled Research Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R/Meeting Follow-Up.md",
+                "file": "J/Compiled Research Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R/Meeting Follow-Up.md"
+                "file": "J/Compiled Research Notes.md"
               }
             }
           }
@@ -164,15 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c736914d487c0ff8",
+  "active": "9872ff85ca852434",
   "lastOpenFiles": [
     "Meeting Minutes.md",
+    "User Stories.md",
     "README.md",
-    "R/Meeting Follow-Up.md",
     "Project Specifications.md",
     "Need Statement.md",
-    "User Stories.md",
-    "Links.md",
-    "J/Compiled Research Notes.md"
+    "J/Untitled.md",
+    "J/Compiled Research Notes.md",
+    "R/Meeting Follow-Up.md",
+    "Links.md"
   ]
 }
